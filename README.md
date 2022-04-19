@@ -10,10 +10,7 @@
 
 ## Overview
 
-I really like this project because it helped me extend
-my skills in responsive design and also I adjasted my knowlages by creating
-pages dynamically with JS . 
-I'm open for any feedback or recommendations.
+I really like this project because it helped me to expand my skills in responsive design and I also adapted my knowledge by creating pages dynamically with JS. I am open to any comments or suggestions.
 
 ### Built with
 
