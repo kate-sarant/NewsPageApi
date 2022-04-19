@@ -32,7 +32,7 @@ I'm open for any feedback or recommendations.
 - Exchange Rate Widget:[Add exchangerwidget]https://www.exchangeratewidget.com/
 
 ## Author
-- Mail - [kate_sarant@yahoo.gr] (https://mailto:kate_sarant@yahoo.gr)
+- Mail - [Sent Mail] (https://mailto:kate_sarant@yahoo.gr)
 - Twitter - @KateSarant (https://www.twitter.com/KateSarant)
 - Linkedin - linkedin.com/in/aikaterini-sarantopoulou-4b05a51b5
 - GitHub - [kate-sarant] https://github.com/kate-sarant
